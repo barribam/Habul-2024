@@ -32,5 +32,9 @@ Ejecutar inference_classifier.py (Toma en cuenta que no puede haber mas de dos m
 
 Para terminar la ejecucion, presionar "q" (quit)
 
-## Creditos
+## Referencias
+
+https://www.youtube.com/@NicholasRenotte
+
+https://www.youtube.com/@ComputerVisionEngineer
 
