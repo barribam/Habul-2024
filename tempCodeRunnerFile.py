@@ -1,0 +1,1 @@
+last_recognized_letter
